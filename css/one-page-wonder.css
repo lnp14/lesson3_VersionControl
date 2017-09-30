@@ -6,6 +6,7 @@
 
 body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    color:#004280;
 }
 
 .header-image {
@@ -17,6 +18,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background:#cce6ff
 }
 
 .headline {
@@ -25,14 +27,14 @@ body {
 
 .headline h1 {
     font-size: 130px;
-    background: #fff;
+    background:#cce6ff;
     background: rgba(255,255,255,0.9);
 }
 
 .headline h2 {
     font-size: 77px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+    background:#cce6ff;
+    background: rgba(204, 221, 255);
 }
 
 .featurette-divider {
