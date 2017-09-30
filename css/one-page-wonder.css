@@ -28,13 +28,11 @@ body {
 .headline h1 {
     font-size: 130px;
     background:#cce6ff;
-    background: rgba(204, 221, 255);
 }
 
 .headline h2 {
     font-size: 77px;
     background:#cce6ff;
-    background: rgba(204, 221, 255);
 }
 
 .featurette-divider {
